@@ -12,3 +12,6 @@
 ## 上傳方式
 將本資料夾內所有檔案上傳到 yici-website Repository 根目錄並覆蓋舊檔，等待 GitHub Pages 部署完成後，在 Search Console 驗證：
 https://mapleflying1236-rgb.github.io/yici-website/
+
+
+新增人權與住民保護專區 protection.html，含四張多語流程圖、三語防治計畫下載、聯絡與通報資訊。
